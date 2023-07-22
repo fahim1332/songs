@@ -1,0 +1,8 @@
+body{
+  font-family: Arial;
+  margin: 10px;
+  background: linear-gradient(to bottom, white , yellow );
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  
+}
